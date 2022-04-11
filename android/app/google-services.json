@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984871842292",
+    "project_id": "flutter-chat-demo-remylia",
+    "storage_bucket": "flutter-chat-demo-remylia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984871842292:android:259f258ca8ab52a93149a1",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984871842292-8tpmtrigk8fak7jrv6jjvj0a2jmjnmdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWFFMiB4NWAbaxHqfx9Nt2mBT3IpWyc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984871842292-8tpmtrigk8fak7jrv6jjvj0a2jmjnmdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
